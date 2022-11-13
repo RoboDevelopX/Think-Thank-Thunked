@@ -1,5 +1,4 @@
 # Virtual Rubik's Cube
-Created By: Think-Thank-Thunked - Colin Hosking, Peter Cwalina, Ahnaf Hasan
 
 ### Description 
 The Virtual Rubik's Cube offers user's a fully-functional Rubik's cube on their computer.
